@@ -1,1 +1,0 @@
-# mac-os-x-ppc-apps
